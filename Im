@@ -1,0 +1,9 @@
+#include stdio.h
+main 
+{
+int x,y
+printf("Enter to the")
+scanf("%d",&x)
+y=5x+20
+prinf("%d",y)
+}
